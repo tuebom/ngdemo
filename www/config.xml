@@ -9,6 +9,5 @@
 		
 		<plugin spec="https://github.com/phonegap/phonegap-plugin-barcodescanner.git#3cf975b" />
 		<plugin spec="https://github.com/VitaliiBlagodir/cordova-plugin-datepicker.git#bd87605" />
-		<plugin spec="https://github.com/apache/cordova-plugin-camera.git#7129fb2" />
 		<plugin spec="https://github.com/EddyVerbruggen/Flashlight-PhoneGap-Plugin.git#2175f33" />
 	</widget>
