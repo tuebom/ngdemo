@@ -6,4 +6,10 @@
 		version   = "">
 		<name>ngCordovaDemo</name>
 		<description>Demo app for ngCordova plugins		</description>
+		
+		<plugin spec="https://github.com/phonegap/phonegap-plugin-barcodescanner.git" source="git" />
+		<plugin spec="https://github.com/phonegap/phonegap-plugin-push.git" source="git" />
+		<plugin spec="https://github.com/VitaliiBlagodir/cordova-plugin-datepicker.git" source="git" />
+		<plugin spec="https://github.com/apache/cordova-plugin-camera.git" source="git" />
+		<plugin spec="https://github.com/EddyVerbruggen/Flashlight-PhoneGap-Plugin.git" source="git" />
 	</widget>
