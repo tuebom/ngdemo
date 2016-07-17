@@ -7,6 +7,5 @@
 		<name>ngCordovaDemo</name>
 		<description>Demo app for ngCordova plugins		</description>
 		
-		<plugin spec="https://github.com/phonegap/phonegap-plugin-barcodescanner.git#3cf975b" />
 		<plugin spec="https://github.com/VitaliiBlagodir/cordova-plugin-datepicker.git#bd87605" />
 	</widget>
